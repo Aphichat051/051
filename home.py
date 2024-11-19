@@ -5,7 +5,7 @@ st.title("❤️❤️Website Developing using Python❤️❤️")
 st.header("🚗🚗Website Developing using Python🚗🚗")
 
 st.image('./img/323283346_5718974981503456_3654895059501341451_n.jpg')
-st.subheader("Nontawat Tingklongton")
+st.subheader("Aphichat Piamain")
 
 dt=pd.read_csv('./data/iris-3.csv')
 st.header("ข้อมูลดอกไม้")
